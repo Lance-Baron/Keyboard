@@ -11,3 +11,6 @@ Each thing has its own folder, first seperated by folder.
 * ECAD contains all schematics PCB designs, libraies, and 3D models
 * CAD contains all 3D models for the Keycaps, the Case, and the Laser Cutting operations
 * Code contains all firmware written for the keyboard to work
+
+As there are many subsystems going into this project, there have been a couple of sub projects that have been made to learn about them indivdually first. Bellow you can fine those GitHub Repos.
+* [LEDBar](https://github.com/Lance-Baron/LEDBar)
